@@ -1,0 +1,15 @@
+[submodule "Training/LeNet5"]
+	path = Training/LeNet5
+	url = https://github.com/activatedgeek/LeNet-5
+[submodule "Training/TorchDirectional"]
+	path = Training/TorchDirectional
+	url = https://github.com/KIT-ISAS/TorchDirectional
+[submodule "Evaluation/prepareFig"]
+	path = Evaluation/prepareFig
+	url = https://github.com/KIT-ISAS/prepareFig
+[submodule "Evaluation/FilterEvaluationFramework"]
+	path = Evaluation/FilterEvaluationFramework
+	url = https://github.com/KIT-ISAS/FilterEvaluationFramework
+[submodule "Evaluation/libDirectional"]
+	path = Evaluation/libDirectional
+	url = https://github.com/libDirectional/libDirectional.git
