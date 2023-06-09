@@ -2,7 +2,7 @@
 	path = Training/LeNet5
 	url = https://github.com/activatedgeek/LeNet-5
 [submodule "Training/TorchDirectional"]
-	path = Training/TorchDirectional
+	path = Training/torch_directional
 	url = https://github.com/KIT-ISAS/TorchDirectional
 [submodule "Evaluation/prepareFig"]
 	path = Evaluation/prepareFig

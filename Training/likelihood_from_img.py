@@ -1,4 +1,4 @@
-from TorchDirectional.FourierDistributionTorch import FourierDistribution
+from torch_directional import FourierDistribution
 import torch
 import pytorch_lightning as pl
 from torch import nn
